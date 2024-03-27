@@ -1,9 +1,16 @@
 :root {
   --theme-color: #ddd;
   --text-color: #222;
+  --main-color: green;
 }
 
 body {
   background-color: var(--theme-color);
   color: var(--text-color);
+}
+
+.button {
+  width: 50px;
+  height: 30px;
+  background-color: var(--main-color);
 }
