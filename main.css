@@ -1,7 +1,9 @@
 :root {
   --theme-color: #ddd;
+  --text-color: #222;
 }
 
 body {
   background-color: var(--theme-color);
+  color: var(--text-color);
 }
