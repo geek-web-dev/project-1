@@ -1,3 +1,7 @@
+:root {
+  --theme-color: #ddd;
+}
+
 body {
-  background-color: #ddd;
+  background-color: var(--theme-color);
 }
