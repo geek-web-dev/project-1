@@ -6,4 +6,5 @@
 body {
   background-color: var(--theme-color);
   color: var(--text-color);
+  fnot-siez: 18px;
 }
